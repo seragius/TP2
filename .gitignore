@@ -1,0 +1,17 @@
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados
+/bin/
+/target/
+*.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# ZIPs y temporales
+*.zip
+*.log
